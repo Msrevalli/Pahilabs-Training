@@ -1,1 +1,6 @@
 flask
+requests
+Werkzeug
+flask[async] 
+aiohttp
+uvicorn
