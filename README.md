@@ -9,6 +9,6 @@ source env/bin/activate
 
 # For package based Application
 
-export FLASK_APP=Package_based_Application
-export FLASK_ENV=development
-flask run
+# export FLASK_APP=Package_based_Application
+# export FLASK_ENV=development
+# flask run
