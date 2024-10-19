@@ -1,12 +1,12 @@
 ## Files Overview
 
-1. 1.Simple_app.py: A basic Flask application that displays "Hello, World!".
-2. 2.HTML_escaping.py: Demonstrates HTML escaping in Flask routes.
-3. 3.Variable_rules.py: Shows how to use variable rules in Flask routes.
-4. 4.Unique_url.py: Illustrates creating unique URLs for different pages.
-5. 5.Url_Building.py: Showcases URL building using Flask's url_for() function.
-6. 6.HTTP_Methods.py: Demonstrates handling different HTTP methods in Flask.
-7. 7.Static_example.py: Shows how to serve static files and render HTML templates in Flask.
+1.Simple_app.py: A basic Flask application that displays "Hello, World!".
+2.HTML_escaping.py: Demonstrates HTML escaping in Flask routes.
+3.Variable_rules.py: Shows how to use variable rules in Flask routes.
+4.Unique_url.py: Illustrates creating unique URLs for different pages.
+5.Url_Building.py: Showcases URL building using Flask's url_for() function.
+6.HTTP_Methods.py: Demonstrates handling different HTTP methods in Flask.
+7.Static_example.py: Shows how to serve static files and render HTML templates in Flask.
 
 ## Detailed Description
 
