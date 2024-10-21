@@ -4,3 +4,10 @@ Werkzeug
 flask[async] 
 aiohttp
 uvicorn
+Flask-Marshmallow
+Flask-SQLAlchemy
+Flask-Migrate
+marshmallow-sqlalchemy
+Flask-RESTful
+Marshmallow
+Flask-Login
