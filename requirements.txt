@@ -11,3 +11,7 @@ marshmallow-sqlalchemy
 Flask-RESTful
 Marshmallow
 Flask-Login
+Flask-MySQL 
+mysql-connector-python
+pymysql
+sqlalchemy
