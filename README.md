@@ -1,4 +1,4 @@
-# Pahlabs-Training
+# Pahilabs-Training
 
 # Installing virtual environment
 python3 -m venv env
