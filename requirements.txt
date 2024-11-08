@@ -15,4 +15,3 @@ Flask-MySQL
 mysql-connector-python
 pymysql
 sqlalchemy
-Django
