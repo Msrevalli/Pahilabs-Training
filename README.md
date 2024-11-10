@@ -11,5 +11,11 @@ source venv/bin/activate
 
 deactivate
 
+# Django
+
+django-admin startproject Blog_Mysql
+cd Blog_Mysql
+
+python manage.py startapp blog
 
 
