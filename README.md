@@ -1,11 +1,15 @@
 # Pahilabs-Training
 
 # Installing virtual environment
-python3 -m venv env
+python3 -m venv venv
 
 # Activating virtual environment
 
-source env/bin/activate
+source venv/bin/activate
+
+# DeActivating virtual environment
+
+deactivate
 
 
 
